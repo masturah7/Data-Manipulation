@@ -1,0 +1,21 @@
+Loan_ID,Gender,Location,Region,Total_Price
+L001,Male,New York,North,1200.50
+L002,Female,Los Angeles,South,850.75
+L003,Male,Chicago,East,1500.00
+L004,Female,Houston,West,975.25
+L005,Male,Phoenix,North,1100.00
+L006,Female,Philadelphia,South,760.40
+L007,Male,San Antonio,East,1325.80
+L008,Female,San Diego,West,890.10
+L009,Male,Dallas,North,1450.60
+L010,Female,San Jose,South,1025.35
+L011,Male,Austin,East,1180.90
+L012,Female,Jacksonville,West,940.20
+L013,Male,Fort Worth,North,1375.00
+L014,Female,Columbus,South,810.65
+L015,Male,Charlotte,East,1260.45
+L016,Female,Indianapolis,West,995.70
+L017,Male,San Francisco,North,1550.25
+L018,Female,Seattle,South,720.80
+L019,Male,Denver,East,1135.90
+L020,Female,Washington,West,1085.30
